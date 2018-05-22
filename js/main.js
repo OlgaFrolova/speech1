@@ -1,6 +1,6 @@
 // Настройки API
 window.ya.speechkit.settings.lang = 'uk-UA';
-window.ya.speechkit.settings.apikey = '6c8a07b4-3927-49e6-898e-7e0b388b716f';
+window.ya.speechkit.settings.apikey = '31aaa81d-8054-4f4b-8e25-27b990d7a0be';
 
 // Настройки обьекта синтеза речи
 var tts = new ya.speechkit.Tts(
